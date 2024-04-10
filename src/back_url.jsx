@@ -1,0 +1,1 @@
+export const BASE_URL="https://ehr2-0.onrender.com";
